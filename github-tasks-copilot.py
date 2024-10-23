@@ -27,3 +27,5 @@ def basic_math():
   else:
     print('valores precisam ser maior do que zero')
   
+
+print('iniciando exercícios...')
