@@ -29,3 +29,11 @@ def basic_math():
   
 
 print('iniciando exercícios...')
+print('Concatenando strings...')
+concatenar_strings()
+
+print('repetindo texto...')
+repetindo_textos()
+
+print('operações matemáticas básicas...')
+basic_math()
